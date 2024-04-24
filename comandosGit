@@ -1,0 +1,7 @@
+git init - Inicializar repositorio
+git status - Para saber el estado del repositorio
+git add . - Para preparar los archivos antes del commit
+git commit -m "Descripcion"
+git remote -v - Ver su repositorio remoto
+git log - Ver las versiones de nuestrom codigo
+git reset --hard commit-log - Regresar a una version anterior del versionamiento
